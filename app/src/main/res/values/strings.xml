@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RealmRhuan</string>
+    <string name="action_settings">Teste Menu</string>
+
+    <string name="id">Id</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+
+    <string name="action_salvar">Salvar</string>
+    <string name="action_alterar">Alterar</string>
+    <string name="action_delete">Deletar</string>
+    <string name="action_sair">Sair</string>
+</resources>
